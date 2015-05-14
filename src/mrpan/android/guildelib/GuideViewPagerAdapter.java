@@ -6,6 +6,11 @@ import android.support.v4.view.PagerAdapter;
 import android.view.View;
 import android.view.ViewGroup;
 
+/**
+ * @author MrPan
+ * 2015-05-14
+ */
+
 public class GuideViewPagerAdapter extends PagerAdapter {
 
 	private List<View> views;

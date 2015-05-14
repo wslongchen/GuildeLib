@@ -13,6 +13,10 @@ import android.widget.ImageView.ScaleType;
 import android.widget.LinearLayout.LayoutParams;
 import android.widget.LinearLayout;
 
+/**
+ * @author MrPan
+ * 2015-05-14
+ */
 public class GuideControler {
 	private Context context;
 
